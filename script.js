@@ -32,7 +32,7 @@ function calculateDiff() {
 
   if (date_1 == date_2) {
     output.innerHTML =
-      "<h2>It's your birthday... Happy birthday! <br>Stanger</h2> " +
+      "<h2>It's your birthday... Happy birthday! <br>Stranger</h2> " +
       "Age: " +
       " " +
       Number(diff.getUTCFullYear() - 1970) +
